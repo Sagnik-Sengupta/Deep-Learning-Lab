@@ -1,8 +1,17 @@
-# Contains the contents of my Deep Learning Lab which covers the following topics:
+# Deep Learning Lab Contents
 
-1. Basics of ANNs (weeks 1, 2)
-2. Convolutional Neural Networks (weeks 3, 4)
-3. RNNs, LSTMS and GRUs (weeks 5, 7)
-4. Encoder-Decoder models (week 8)
+This repository contains the contents of my Deep Learning Lab, covering the following topics:
 
-All of the codes here may not be 100% accurate.
+1. **Basics of Artificial Neural Networks (ANNs)**  
+   *Weeks 1, 2*
+
+2. **Convolutional Neural Networks (CNNs)**  
+   *Weeks 3, 4*
+
+3. **Recurrent Neural Networks (RNNs), LSTMs, and GRUs**  
+   *Weeks 5, 7*
+
+4. **Encoder-Decoder Models**  
+   *Week 8*
+
+> **Note:** All of the code provided may not be 100% accurate.
